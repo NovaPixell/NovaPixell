@@ -1,5 +1,6 @@
-### Hello there
+### Welcome on my GitHub profile page!
 
-- NovaPixel#5586
+- Discord: NovaPixel#5586
+- Telegram: NovaPixell
 
-![Giuseppe Giorgio's Github stats](https://github-readme-stats.vercel.app/api?username=NovaPixell&show_icons=true&theme=gruvbox)
+![Giuseppe Giorgio's GitHub stats](https://github-readme-stats.vercel.app/api?username=NovaPixell&show_icons=true&theme=gruvbox)
